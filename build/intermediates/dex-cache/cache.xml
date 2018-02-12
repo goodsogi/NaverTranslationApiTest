@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/bagjeong-gyu/.android/build-cache/9780542754aa495d8e8885bd0b027fa46bffd6c8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/bagjeong-gyu/AndroidStudioProjects/NaverTranslationApiTest/app/build/intermediates/pre-dexed/debug/classes_d0d66b768a98de6c37e8f93f817404bb705ee5fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bagjeong-gyu/.android/build-cache/d6c13ac0f39338d7596bf49a65d3699119da48be/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="97cd0ab3ffad045a162fc1a413fe6abc58e199c4">
+        <dex dex="/Users/bagjeong-gyu/AndroidStudioProjects/NaverTranslationApiTest/app/build/intermediates/pre-dexed/debug/classes_66657492ededd76e346054d3ec453dbf58ee68b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bagjeong-gyu/.gradle/caches/modules-2/files-2.1/com.trello.rxlifecycle2/rxlifecycle/2.2.0/bad74e98db4857406a87d5b7595fef62bf31823c/rxlifecycle-2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bad74e98db4857406a87d5b7595fef62bf31823c">
+        <dex dex="/Users/bagjeong-gyu/AndroidStudioProjects/NaverTranslationApiTest/app/build/intermediates/pre-dexed/debug/rxlifecycle-2.2.0_a0c9a4809c2d85e6f09364d3e7a5d6279ea7c8ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bagjeong-gyu/.gradle/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.1/1b1c911686eb40179219466e6a59b634b9d7a748/reactive-streams-1.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1b1c911686eb40179219466e6a59b634b9d7a748">
+        <dex dex="/Users/bagjeong-gyu/AndroidStudioProjects/NaverTranslationApiTest/app/build/intermediates/pre-dexed/debug/reactive-streams-1.0.1_b27773b13d4279f83116053482fa0b3febd6ffc1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bagjeong-gyu/.android/build-cache/d25c31e234246bebace2e01638f591e1c12aee05/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e20f3c5e0e1bdbcf0edad8b16771497b36f68875">
+        <dex dex="/Users/bagjeong-gyu/AndroidStudioProjects/NaverTranslationApiTest/app/build/intermediates/pre-dexed/debug/classes_2cfa3c55cf7685782824793176c51ec85f939b25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bagjeong-gyu/.android/build-cache/a165878a93ac9ffd26a7c182e7bf31d583e078df/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a1589af4546e0299f3e0c77de3215ecfd3a0e19d">
+        <dex dex="/Users/bagjeong-gyu/AndroidStudioProjects/NaverTranslationApiTest/app/build/intermediates/pre-dexed/debug/classes_dafd889a3c351b21a184de28bc537a1f4d3a973a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bagjeong-gyu/.android/build-cache/b110d2b7ec93254ffdef86b7d18b4d9cd8c60c0e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="28cb30c89c8e501ded77e960407731df6c54b844">
+        <dex dex="/Users/bagjeong-gyu/AndroidStudioProjects/NaverTranslationApiTest/app/build/intermediates/pre-dexed/debug/classes_e00fb7ebc4f7018c5a76a6d37251c08b1f3f7ad8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bagjeong-gyu/.android/build-cache/a439d9c38a74a61082d617bf19dc53d2e38b86d0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eef44a34be1eef845ecb4072e3692b434af05ad4">
+        <dex dex="/Users/bagjeong-gyu/AndroidStudioProjects/NaverTranslationApiTest/app/build/intermediates/pre-dexed/debug/classes_4407e7134756aeccd14f0f08b98d922d5670f144.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bagjeong-gyu/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.3/c6a633c63607f09f77f424b5c52522a7607cedae/rxjava-2.1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c6a633c63607f09f77f424b5c52522a7607cedae">
+        <dex dex="/Users/bagjeong-gyu/AndroidStudioProjects/NaverTranslationApiTest/app/build/intermediates/pre-dexed/debug/rxjava-2.1.3_8c300d8419c1f2699a7e07208610e478936779b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bagjeong-gyu/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/bagjeong-gyu/AndroidStudioProjects/NaverTranslationApiTest/app/build/intermediates/pre-dexed/debug/okio-1.13.0_7ef1556208c2542c9d4069c947c22808f03e4714.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bagjeong-gyu/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.3.0/9e09011e9767bb76b5e27c9b8223476b93b14631/converter-gson-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e09011e9767bb76b5e27c9b8223476b93b14631">
+        <dex dex="/Users/bagjeong-gyu/AndroidStudioProjects/NaverTranslationApiTest/app/build/intermediates/pre-dexed/debug/converter-gson-2.3.0_8d3a1245937229933cb10ef7c1a4b1e48d9956ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bagjeong-gyu/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/adapter-rxjava2/2.3.0/f436637f9500ab5b8bc32afe556373180894b4a5/adapter-rxjava2-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f436637f9500ab5b8bc32afe556373180894b4a5">
+        <dex dex="/Users/bagjeong-gyu/AndroidStudioProjects/NaverTranslationApiTest/app/build/intermediates/pre-dexed/debug/adapter-rxjava2-2.3.0_a7a0c34c4780f968c0ef0c10a1034287737faa4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bagjeong-gyu/.android/build-cache/c85ae7f4c31df49be2b352c222fc9a537de86706/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4119ea97a7191ff9b8f33b534ea220448f62f491">
+        <dex dex="/Users/bagjeong-gyu/AndroidStudioProjects/NaverTranslationApiTest/app/build/intermediates/pre-dexed/debug/classes_33a1b1defad87552f2df8206f22a84e487ecce91.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bagjeong-gyu/.android/build-cache/aa20122e3dcbd8b06492dd3b99649498f9726568/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="48a969b476c5c4bd8cabfe295428ff222bc68b8e">
+        <dex dex="/Users/bagjeong-gyu/AndroidStudioProjects/NaverTranslationApiTest/app/build/intermediates/pre-dexed/debug/classes_d97bd9986bc28aabf0f986d3ff54e99b014d04af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bagjeong-gyu/.android/build-cache/3506f9a8f6fcf374f15bb726975edaa692cdcfbc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f9f219b8a8acc35922ab06f4ff29769041481b4b">
+        <dex dex="/Users/bagjeong-gyu/AndroidStudioProjects/NaverTranslationApiTest/app/build/intermediates/pre-dexed/debug/classes_102618ba271e6c99ede7da6ba2d93c56742bc1a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bagjeong-gyu/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.0.2/8b68a849722b44f584e2d68c451c5e3844c10380/support-annotations-26.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8b68a849722b44f584e2d68c451c5e3844c10380">
+        <dex dex="/Users/bagjeong-gyu/AndroidStudioProjects/NaverTranslationApiTest/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.2_1e41e4fa58a878f17ccfbedf10c3751d5a307fa7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bagjeong-gyu/.android/build-cache/bd2781771ededea484e6ead0291d241b5d47882b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="138b5e3a5341bb37117b13f327de68f81f9f0669">
+        <dex dex="/Users/bagjeong-gyu/AndroidStudioProjects/NaverTranslationApiTest/app/build/intermediates/pre-dexed/debug/classes_05e7420e821e9ad6a0509bbf4189acbcee44c709.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bagjeong-gyu/.android/build-cache/6e9e069659be431a7e72c358e2f968a23703249c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb305d2ec1f85a4122c5e9d0412c87e20dac20f8">
+        <dex dex="/Users/bagjeong-gyu/AndroidStudioProjects/NaverTranslationApiTest/app/build/intermediates/pre-dexed/debug/classes_a9fbbfbec8cbbe2c2dbc20dc5a22a8e80dbcf08d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bagjeong-gyu/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.3.0/bcacde6a8ccedcc56c127403d26b76072fe6214d/retrofit-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bcacde6a8ccedcc56c127403d26b76072fe6214d">
+        <dex dex="/Users/bagjeong-gyu/AndroidStudioProjects/NaverTranslationApiTest/app/build/intermediates/pre-dexed/debug/retrofit-2.3.0_fe6bdf838a6f5d7420c8791bcc2f35f9097db261.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bagjeong-gyu/.android/build-cache/370d896900e349c02206a691b74aab0ee0aca3fd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b4a446c110c5a9f3a62907367d5eea4d4062c36a">
+        <dex dex="/Users/bagjeong-gyu/AndroidStudioProjects/NaverTranslationApiTest/app/build/intermediates/pre-dexed/debug/classes_72e1f301f915eefbf9340e801594b66daa85fbf9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bagjeong-gyu/.android/build-cache/26897570967310972b8efc5ef90425faf7161587/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4e38f488b591fa8ef9dce3e21752c92bde5f6f7c">
+        <dex dex="/Users/bagjeong-gyu/AndroidStudioProjects/NaverTranslationApiTest/app/build/intermediates/pre-dexed/debug/classes_da107ddd9ff42c0829e6b5682c4806b2a71eb9e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bagjeong-gyu/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.0/5a11f020cce2d11eb71ba916700600e18c4547e7/okhttp-3.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5a11f020cce2d11eb71ba916700600e18c4547e7">
+        <dex dex="/Users/bagjeong-gyu/AndroidStudioProjects/NaverTranslationApiTest/app/build/intermediates/pre-dexed/debug/okhttp-3.8.0_609d10806ff05d0614869edf72d2a6f8a6912162.jar" />
+    </item>
+
+</items>

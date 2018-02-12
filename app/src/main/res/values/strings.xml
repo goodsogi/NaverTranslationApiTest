@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NaverTranslationApiTest</string>
+    <string name="no_internet_alert_text">인터넷에 연결되지 않았습니다. 나중에 다시 시도하세요.</string>
+</resources>
